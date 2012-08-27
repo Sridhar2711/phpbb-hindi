@@ -1,11 +1,11 @@
 <?php
 /**
 *
-* install [English]
+* install [Hindi]
 *
 * @package language
 * @version $Id$
-* @copyright (c) 2005 phpBB Group
+* @copyright (c) 2012 phpbbbharat.com
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
 *
 */
